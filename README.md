@@ -1,5 +1,5 @@
 ## Chaincode for hyperledger fabric
- The chaincode lets an user approve a licensing application. It works in multiple channel.  
+ The chaincode lets an user approve a licensing application. It works in multinode channel.  
 ## Installation
 - Create a test network.
 - Install the chaincode
